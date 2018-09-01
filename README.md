@@ -10,11 +10,7 @@
 
 ![image](https://user-images.githubusercontent.com/33774515/44943288-ad4d3880-ad78-11e8-8b0e-be3381390fcf.png)
 
--  First, in 1906 a "Intercalated Games" was held and seen as a compromise between the Greeks and Pierre de Coubertin, the founder of the International Olympic Committee. This was the first and last "Intercalated Games" that was scheduled in between every offcial Summer Olympics. 
--  Second, there are multiple "missing years" during the first half of 20th centure due to WWI and WWII.
--  Third, the 1932 Los Angeles Olympics had a decline in male athletes number due to the Great Depression. And Los Angeles was far away from that time's center of the World, the Europe. It's the same when 1956 Melbourne Olympics was first held in the Oceania far away from other parts of the world. In 1980 the Soviet Union just invaded Afghanistan so many western countries refused to attend the Moscow Olympics.
--  Fourth, the growing population of female Olympics atheletes witnessed the rise of women in sports as well as in other aspects.
-
+Nothing compares to the line graph when revealing some certain trends. So here the line graph is used to give a quick look how number of athletes changed since the first Olympics.
 
 
 
