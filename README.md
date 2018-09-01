@@ -1,5 +1,8 @@
 # A-Glimpse-of-the-Olympics-History-via-Visuals
 
+
+The dataset records the athletes, events and results information from 120 years of Olympic history: from Athens 1896 to Rio 2016. See: https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results/home
+
 ## Summary
 -  The reason I chose this dataset is because the Olympics history has a lot of stories to tell. Through the history of Olympics we can peek some historical trends of whole human society, too. 
 -  The columns I focused on are the "Sex", "Weight", "Height", "NOC", "Sport", "Year" and "Medal". Several plots are based on these variables and generate interesting history insights.
