@@ -17,20 +17,14 @@ Nothing compares to the line graph when revealing some certain trends. So here t
 
 
 
+![choropleth_atheletes _1948](https://user-images.githubusercontent.com/33774515/44952796-6d03be00-ae3d-11e8-9cbd-76e306e4c52a.png)
+
+We can see the 1948 Olympics was mainly a Western Country festival.
+
+
 ![bubble_top_10_medal_1948](https://user-images.githubusercontent.com/33774515/44943354-ea65fa80-ad79-11e8-8874-eb96befdea20.png)
 
 While the USA being no doubt the only "Superpower" in medals, all other countries in the Top 10 are european countries.
-
-
-
-
-
-![bubble_top_10_medal_2016](https://user-images.githubusercontent.com/33774515/44943358-fd78ca80-ad79-11e8-9b52-7f8e910fdc61.png)
-
-Still the USA being the only top-tier competitors in medals. But this time, Asian countries and Russia earned significant positions in the chart. That also indicates the involvement of the Olympic Games improved during the years.
-
-
-
 
 
 ![bar_usa_strongest](https://user-images.githubusercontent.com/33774515/44943375-2dc06900-ad7a-11e8-8c1b-86d4a365f22a.png)
