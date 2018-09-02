@@ -6,11 +6,10 @@ The dataset records the athletes, events and results information from 120 years 
 ## Summary
 -  The reason I chose this dataset is because the Olympics history has a lot of stories to tell. Through the history of Olympics we can peek some historical trends of whole human society, too. 
 -  The columns I focused on are the "Sex", "Weight", "Height", "NOC", "Sport", "Year" and "Medal". Several plots are based on these variables and generate interesting history insights.
--  The python modules utilized in the project includes: Numpy, Pandas, Seaborn, Plotly, Matplotlib, StatsModels, etc.
-
-
-
-
+-  The python modules utilized in the project includes: Numpy, Pandas, Seaborn, Plotly, Matplotlib, StatsModels, etc.  
+                                                                                                                               
+                                                                                                                               
+## Topics:                                                                                                                               
 ![image](https://user-images.githubusercontent.com/33774515/44943288-ad4d3880-ad78-11e8-8b0e-be3381390fcf.png)
 
 Nothing compares to the line graph when revealing some certain trends. So here the line graph is used to give a quick look how number of athletes changed since the first Olympics.
