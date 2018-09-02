@@ -1,7 +1,9 @@
 # A-Glimpse-of-the-Olympics-History-via-Visuals
 
 
-The dataset records the athletes, events and results information from 120 years of Olympic history: from Athens 1896 to Rio 2016. See: https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results/home
+The dataset records the athletes, events and results information from 120 years of Olympic history: from Athens 1896 to Rio 2016. See: https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results/home.  
+
+Important: Choropleth Maps and Bubble Charts (Plot 3-6 of Topic 3 & 4) created by Plotly python module must rerun to show the interactive plots.
 
 ## Summary
 -  The reason I chose this dataset is because the Olympics history has a lot of stories to tell. Through the history of Olympics we can peek some historical trends of whole human society, too. 
