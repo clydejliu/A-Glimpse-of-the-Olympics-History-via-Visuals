@@ -9,7 +9,7 @@ The dataset records the athletes, events and results information from 120 years 
 -  The python modules utilized in the project includes: Numpy, Pandas, Seaborn, Plotly, Matplotlib, StatsModels, etc.  
                                                                                                                                
                                                                                                                                
-## Topics:                                                                                                                               
+## Topic Examples:                                                                                                                               
 ![image](https://user-images.githubusercontent.com/33774515/44943288-ad4d3880-ad78-11e8-8b0e-be3381390fcf.png)
 
 Nothing compares to the line graph when revealing some certain trends. So here the line graph is used to give a quick look how number of athletes changed since the first Olympics.
